@@ -4,7 +4,7 @@
 ![alt text](https://github.com/ambuj-1211/ambuj-1211/blob/main/devopsimage.jpg?raw=true)
  
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ambuj, a passionate developer from India.👩🏾‍💻 </h2> &nbsp;
-# Welcome 👋 you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/ambuj-1211/count.svg)th visitor 🤗
+# Welcome, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/ambuj-1211/count.svg)th visitor 🤗
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
