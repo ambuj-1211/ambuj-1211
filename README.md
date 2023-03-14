@@ -1,5 +1,5 @@
 <!-- ![Luck](https://tenor.com/bwd1s.gif) -->
-> “I am no one to say I am a Master in tech, cause I am not but I am on my way to keep doing mistakes and learning from them because it is more important to not to repeate a mistake again and obviously being humans we all are bound to do mistakes. So I am on my way to explore new problems and solutions to them. ”
+> “As a believer in continuous learning and growth, I am dedicated to exploring new challenges and finding innovative solutions. I make mistakes, but I view them as opportunities to learn and improve. Aim to share my knowledge and experiences with the wider community while also expanding my own skills and expertise. Join me on this journey of exploration and discovery, and let's keep striving to create better solutions for the world's problems.”
 
 ![alt text](https://github.com/ambuj-1211/ambuj-1211/blob/main/devopsimage.jpg?raw=true)
  
