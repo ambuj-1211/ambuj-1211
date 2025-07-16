@@ -1,5 +1,5 @@
 <!-- ![Luck](https://tenor.com/bwd1s.gif) -->
-> “A Believer, dedicated to exploring new challenges and finding innovative solutions. I make mistakes, but I view them as opportunities to learn and improve. Aim to share my knowledge and experiences with the wider community while also expanding my own skills and expertise. Join me on this journey of exploration and discovery, and let's keep striving to create better solutions for the world's problems.”
+> A Believer, dedicated to exploring new challenges and finding innovative solutions. I make mistakes, but I view them as opportunities to learn and improve. Aim to share my knowledge and experiences with the wider community while also expanding my own skills and expertise. Join me on this journey of exploration and discovery, and let's keep striving to create better solutions for the world's problems.
 
 <!-- ![alt text](https://github.com/ambuj-1211/ambuj-1211/blob/main/devopsimage.jpg?raw=true) -->
  
