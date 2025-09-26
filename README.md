@@ -1,11 +1,5 @@
-<!-- ![Luck](https://tenor.com/bwd1s.gif) -->
-> A Believer, dedicated to exploring new challenges and finding innovative solutions. I make mistakes, but I view them as opportunities to learn and improve. Aim to share my knowledge and experiences with the wider community while also expanding my own skills and expertise. Join me on this journey of exploration and discovery, and let's keep striving to create better solutions for the world's problems.
-
-<!-- ![alt text](https://github.com/ambuj-1211/ambuj-1211/blob/main/devopsimage.jpg?raw=true) -->
- 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ambuj, a passionate developer from India.👩🏾‍💻 </h2> &nbsp;
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ambuj, a passionate developer from India.👩🏾‍💻 I have contributed to many open-source projects, including AboutCode, Cdxgen, and Copacitic and also in Frappe. I am very curious about the new tech and love to learn constantly. </h2> &nbsp;
 <!--# Welcome, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/ambuj-1211/count.svg)th visitor 🤗 -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kulshreshthaak"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kulshreshthaak"width=40"/></a>
