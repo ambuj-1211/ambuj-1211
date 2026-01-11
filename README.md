@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ambuj, a passionate developer from India.👩🏾‍💻 I have contributed to many open-source projects, including AboutCode, Cdxgen, and Copacitic and also in Frappe. I am very curious about the new tech and love to learn constantly. </h2> &nbsp;
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ambuj, a passionate developer from India. Would love to connect to discuss some really cool opensource stuff. </h2> &nbsp;
 <!--# Welcome, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/ambuj-1211/count.svg)th visitor 🤗 -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
